@@ -1,4 +1,4 @@
-# USvsIND_MarketIndex_Returns
+# Predicting Stock Market Returns
 
 
 Here I try to find correlation between the Index of the Indian Stock market and that of the US stock market.
